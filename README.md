@@ -29,7 +29,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+* Initially had problems with longpress, but later resolved.
+* After adding onClick for editing, problem revisited.
 
 ## License
 
