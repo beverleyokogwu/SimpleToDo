@@ -6,7 +6,7 @@ Submitted by: **Beverley-Claire Okogwu**
 
 Time spent: Approximately **3.5** hours spent in total
 
-## User Stories
+## User Stories:
 
 The following **required** functionality is completed:
 
@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 * [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
 
-## Video Walkthrough
+## Video Walkthrough:
 
 Here's a walkthrough of implemented user stories:
 
